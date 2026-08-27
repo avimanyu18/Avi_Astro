@@ -1,14 +1,14 @@
-FROM node:18-alpine as builder
+FROM node:18-alpine AS builder
 
 WORKDIR /app
 
 # copy package manifest first for better caching
-COPY frontend/package.json frontend/package-lock.json* ./
+COPY package.json package-lock.json* ./
 
 RUN npm install --silent
 
 # copy rest of frontend sources and build
-COPY frontend/ .
+COPY . .
 RUN npm run build
 
 FROM nginx:alpine
