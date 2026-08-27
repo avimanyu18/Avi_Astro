@@ -1,0 +1,10 @@
+venv/
+node_modules/
+dist/
+frontend/release/
+frontend/.env.production
+*.keystore
+__pycache__/
+*.pyc
+env.local
+.env

@@ -1,0 +1,37 @@
+{
+    "name": "Vedic Astrology Devcontainer",
+    "dockerComposeFile": [
+        "../docker-compose.yml"
+    ],
+    "service": "backend",
+    "workspaceFolder": "/workspace",
+    "workspaceMount": "source=${localWorkspaceFolder},target=/workspace,type=bind,consistency=cached",
+    "runServices": [
+        "backend",
+        "frontend"
+    ],
+    "shutdownAction": "stopCompose",
+    "postCreateCommand": "pip install --no-cache-dir -r backend/requirements.txt || true",
+    "postStartCommand": "docker-compose up -d --build",
+    "forwardPorts": [
+        8000,
+        3000
+    ],
+    "extensions": [
+        "ms-python.python",
+        "ms-azuretools.vscode-docker",
+        "esbenp.prettier-vscode"
+    ],
+    "settings": {
+        "editor.formatOnSave": true,
+        "editor.formatOnPaste": true,
+        "python.formatting.provider": "black",
+        "python.languageServer": "Pylance",
+        "terminal.integrated.shell.linux": "/bin/bash",
+        "files.trimTrailingWhitespace": true
+    },
+    "mounts": [
+        "source=/var/run/docker.sock,target=/var/run/docker.sock,type=bind"
+    ],
+    "remoteUser": "root"
+}

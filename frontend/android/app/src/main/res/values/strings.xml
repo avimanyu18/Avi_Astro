@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Avimanyu Astro AI</string>
+    <string name="title_activity_main">Avimanyu Astro AI</string>
+    <string name="package_name">com.example.vedicastrology</string>
+    <string name="custom_url_scheme">com.example.vedicastrology</string>
+</resources>

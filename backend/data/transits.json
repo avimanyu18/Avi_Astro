@@ -1,0 +1,4358 @@
+[
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2026-07-18",
+    "time": "23:58:51"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2026-07-21",
+    "time": "07:54:30"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2026-07-23",
+    "time": "19:01:05"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2026-07-26",
+    "time": "07:34:45"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2026-07-28",
+    "time": "19:49:19"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2026-07-31",
+    "time": "06:38:04"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Virgo",
+    "date": "2026-08-01",
+    "time": "09:28:03"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2026-08-02",
+    "time": "15:26:48"
+  },
+  {
+    "planet": "Mars",
+    "sign": "Gemini",
+    "date": "2026-08-02",
+    "time": "22:51:13"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2026-08-04",
+    "time": "21:54:03"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Cancer",
+    "date": "2026-08-05",
+    "time": "19:54:01"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2026-08-07",
+    "time": "01:53:21"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2026-08-09",
+    "time": "03:48:57"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2026-08-11",
+    "time": "04:43:28"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2026-08-13",
+    "time": "06:06:40"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2026-08-15",
+    "time": "09:34:37"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Leo",
+    "date": "2026-08-17",
+    "time": "07:58:28"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2026-08-17",
+    "time": "16:19:26"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2026-08-20",
+    "time": "02:30:15"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2026-08-22",
+    "time": "14:49:13"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Leo",
+    "date": "2026-08-22",
+    "time": "19:31:38"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2026-08-25",
+    "time": "03:06:13"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2026-08-27",
+    "time": "13:35:31"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2026-08-29",
+    "time": "21:37:33"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2026-09-01",
+    "time": "03:23:49"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Libra",
+    "date": "2026-09-02",
+    "time": "13:44:14"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2026-09-03",
+    "time": "07:25:53"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2026-09-05",
+    "time": "10:18:21"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2026-09-07",
+    "time": "12:38:34"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Virgo",
+    "date": "2026-09-07",
+    "time": "13:32:41"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2026-09-09",
+    "time": "15:14:25"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2026-09-11",
+    "time": "19:08:11"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2026-09-14",
+    "time": "01:26:24"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2026-09-16",
+    "time": "10:49:05"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Virgo",
+    "date": "2026-09-17",
+    "time": "07:52:40"
+  },
+  {
+    "planet": "Mars",
+    "sign": "Cancer",
+    "date": "2026-09-18",
+    "time": "16:35:20"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2026-09-18",
+    "time": "22:44:45"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2026-09-21",
+    "time": "11:14:59"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2026-09-23",
+    "time": "21:56:56"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2026-09-26",
+    "time": "05:33:00"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Libra",
+    "date": "2026-09-26",
+    "time": "12:38:19"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2026-09-28",
+    "time": "10:16:19"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2026-09-30",
+    "time": "13:13:40"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2026-10-02",
+    "time": "15:40:30"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2026-10-04",
+    "time": "18:31:49"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2026-10-06",
+    "time": "22:17:39"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2026-10-09",
+    "time": "03:18:05"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2026-10-11",
+    "time": "10:04:01"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2026-10-13",
+    "time": "19:12:21"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2026-10-16",
+    "time": "06:47:40"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Libra",
+    "date": "2026-10-17",
+    "time": "19:51:21"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2026-10-18",
+    "time": "19:33:04"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2026-10-21",
+    "time": "07:00:19"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2026-10-23",
+    "time": "15:03:53"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2026-10-25",
+    "time": "19:22:06"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2026-10-27",
+    "time": "21:06:33"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2026-10-29",
+    "time": "22:06:37"
+  },
+  {
+    "planet": "Jupiter",
+    "sign": "Leo",
+    "date": "2026-10-31",
+    "time": "12:02:02"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2026-11-01",
+    "time": "00:00:39"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2026-11-03",
+    "time": "03:46:22"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2026-11-05",
+    "time": "09:34:32"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Virgo",
+    "date": "2026-11-06",
+    "time": "01:04:18"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2026-11-07",
+    "time": "17:15:07"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2026-11-10",
+    "time": "02:48:14"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2026-11-12",
+    "time": "14:19:07"
+  },
+  {
+    "planet": "Mars",
+    "sign": "Leo",
+    "date": "2026-11-12",
+    "time": "20:18:16"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2026-11-15",
+    "time": "03:11:13"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Scorpio",
+    "date": "2026-11-16",
+    "time": "19:42:53"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2026-11-17",
+    "time": "15:30:27"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2026-11-20",
+    "time": "00:49:56"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2026-11-22",
+    "time": "05:54:55"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Libra",
+    "date": "2026-11-22",
+    "time": "17:20:45"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2026-11-24",
+    "time": "07:24:36"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2026-11-26",
+    "time": "07:11:04"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2026-11-28",
+    "time": "07:22:31"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2026-11-30",
+    "time": "09:42:18"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2026-12-02",
+    "time": "14:59:14"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Scorpio",
+    "date": "2026-12-02",
+    "time": "17:27:16"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2026-12-04",
+    "time": "23:02:44"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2026-12-07",
+    "time": "09:13:51"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2026-12-09",
+    "time": "21:00:36"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2026-12-12",
+    "time": "09:51:31"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2026-12-14",
+    "time": "22:35:46"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Sagittarius",
+    "date": "2026-12-16",
+    "time": "10:24:45"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2026-12-17",
+    "time": "09:13:02"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2026-12-19",
+    "time": "15:58:01"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2026-12-21",
+    "time": "18:36:02"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Sagittarius",
+    "date": "2026-12-22",
+    "time": "07:39:27"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2026-12-23",
+    "time": "18:25:51"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2026-12-25",
+    "time": "17:32:52"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2026-12-27",
+    "time": "18:04:39"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2026-12-29",
+    "time": "21:37:27"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2027-01-01",
+    "time": "04:46:55"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Scorpio",
+    "date": "2027-01-01",
+    "time": "23:22:36"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2027-01-03",
+    "time": "15:00:25"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2027-01-06",
+    "time": "03:07:16"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2027-01-08",
+    "time": "15:59:01"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Capricorn",
+    "date": "2027-01-10",
+    "time": "00:37:08"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2027-01-11",
+    "time": "04:34:53"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2027-01-13",
+    "time": "15:40:06"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Capricorn",
+    "date": "2027-01-14",
+    "time": "21:10:11"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2027-01-15",
+    "time": "23:51:04"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2027-01-18",
+    "time": "04:21:42"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2027-01-20",
+    "time": "05:38:25"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2027-01-22",
+    "time": "05:09:50"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2027-01-24",
+    "time": "04:53:24"
+  },
+  {
+    "planet": "Jupiter",
+    "sign": "Cancer",
+    "date": "2027-01-25",
+    "time": "01:31:44"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2027-01-26",
+    "time": "06:44:58"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Aquarius",
+    "date": "2027-01-28",
+    "time": "03:33:49"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2027-01-28",
+    "time": "12:08:35"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Sagittarius",
+    "date": "2027-01-29",
+    "time": "18:41:36"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2027-01-30",
+    "time": "21:21:59"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2027-02-02",
+    "time": "09:21:32"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2027-02-04",
+    "time": "22:18:13"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2027-02-07",
+    "time": "10:36:33"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2027-02-09",
+    "time": "21:16:52"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2027-02-12",
+    "time": "05:42:00"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Aquarius",
+    "date": "2027-02-13",
+    "time": "10:08:51"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2027-02-14",
+    "time": "11:27:48"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2027-02-16",
+    "time": "14:34:50"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2027-02-18",
+    "time": "15:42:34"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2027-02-20",
+    "time": "16:07:45"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2027-02-22",
+    "time": "17:30:08"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Capricorn",
+    "date": "2027-02-24",
+    "time": "04:40:13"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Capricorn",
+    "date": "2027-02-24",
+    "time": "15:16:02"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2027-02-24",
+    "time": "21:30:18"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2027-02-27",
+    "time": "05:14:14"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2027-03-01",
+    "time": "16:27:07"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2027-03-04",
+    "time": "05:20:41"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2027-03-06",
+    "time": "17:34:38"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2027-03-09",
+    "time": "03:40:10"
+  },
+  {
+    "planet": "Mars",
+    "sign": "Cancer",
+    "date": "2027-03-10",
+    "time": "00:13:26"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2027-03-11",
+    "time": "11:19:54"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Aquarius",
+    "date": "2027-03-12",
+    "time": "05:07:00"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2027-03-13",
+    "time": "16:54:56"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Pisces",
+    "date": "2027-03-15",
+    "time": "06:59:51"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2027-03-15",
+    "time": "20:51:25"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2027-03-17",
+    "time": "23:32:47"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2027-03-20",
+    "time": "01:31:35"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Aquarius",
+    "date": "2027-03-21",
+    "time": "18:51:29"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2027-03-22",
+    "time": "03:44:45"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2027-03-24",
+    "time": "07:33:10"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2027-03-26",
+    "time": "14:17:56"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2027-03-29",
+    "time": "00:31:50"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2027-03-31",
+    "time": "13:07:38"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2027-04-03",
+    "time": "01:32:55"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2027-04-05",
+    "time": "11:32:00"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Pisces",
+    "date": "2027-04-05",
+    "time": "16:16:14"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2027-04-07",
+    "time": "18:25:33"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2027-04-09",
+    "time": "22:56:34"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2027-04-12",
+    "time": "02:14:13"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2027-04-14",
+    "time": "05:12:21"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Aries",
+    "date": "2027-04-14",
+    "time": "15:28:06"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Pisces",
+    "date": "2027-04-15",
+    "time": "15:20:18"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2027-04-16",
+    "time": "08:18:20"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2027-04-18",
+    "time": "11:51:52"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2027-04-20",
+    "time": "16:31:26"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Aries",
+    "date": "2027-04-22",
+    "time": "08:12:17"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2027-04-22",
+    "time": "23:17:03"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2027-04-25",
+    "time": "08:57:29"
+  },
+  {
+    "planet": "Mars",
+    "sign": "Leo",
+    "date": "2027-04-26",
+    "time": "11:46:39"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2027-04-27",
+    "time": "21:11:14"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2027-04-30",
+    "time": "09:53:53"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2027-05-02",
+    "time": "20:23:21"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2027-05-05",
+    "time": "03:14:50"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Taurus",
+    "date": "2027-05-06",
+    "time": "12:36:09"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2027-05-07",
+    "time": "06:55:46"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2027-05-09",
+    "time": "08:56:17"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Aries",
+    "date": "2027-05-10",
+    "time": "08:48:38"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2027-05-11",
+    "time": "10:50:27"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2027-05-13",
+    "time": "13:40:55"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Taurus",
+    "date": "2027-05-15",
+    "time": "12:19:32"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2027-05-15",
+    "time": "17:52:22"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2027-05-17",
+    "time": "23:33:20"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2027-05-20",
+    "time": "07:03:03"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2027-05-22",
+    "time": "16:50:18"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Gemini",
+    "date": "2027-05-23",
+    "time": "18:31:59"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2027-05-25",
+    "time": "04:53:07"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2027-05-27",
+    "time": "17:49:24"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2027-05-30",
+    "time": "05:08:52"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2027-06-01",
+    "time": "12:49:50"
+  },
+  {
+    "planet": "Saturn",
+    "sign": "Aries",
+    "date": "2027-06-03",
+    "time": "05:27:27"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2027-06-03",
+    "time": "16:37:43"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Taurus",
+    "date": "2027-06-04",
+    "time": "00:40:51"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2027-06-05",
+    "time": "17:50:29"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2027-06-07",
+    "time": "18:20:20"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2027-06-09",
+    "time": "19:48:06"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2027-06-11",
+    "time": "23:17:46"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2027-06-14",
+    "time": "05:10:40"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Gemini",
+    "date": "2027-06-15",
+    "time": "18:55:42"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2027-06-16",
+    "time": "13:21:34"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2027-06-18",
+    "time": "23:40:24"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2027-06-21",
+    "time": "11:49:10"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2027-06-24",
+    "time": "00:50:48"
+  },
+  {
+    "planet": "Jupiter",
+    "sign": "Leo",
+    "date": "2027-06-26",
+    "time": "05:18:36"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2027-06-26",
+    "time": "12:52:16"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Gemini",
+    "date": "2027-06-28",
+    "time": "14:39:27"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2027-06-28",
+    "time": "21:48:19"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2027-07-01",
+    "time": "02:42:28"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2027-07-03",
+    "time": "04:13:32"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2027-07-05",
+    "time": "04:01:51"
+  },
+  {
+    "planet": "Mars",
+    "sign": "Virgo",
+    "date": "2027-07-05",
+    "time": "04:34:17"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2027-07-07",
+    "time": "04:03:26"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2027-07-09",
+    "time": "05:59:25"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2027-07-11",
+    "time": "10:53:21"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2027-07-13",
+    "time": "18:57:42"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2027-07-16",
+    "time": "05:39:43"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Cancer",
+    "date": "2027-07-17",
+    "time": "05:48:39"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2027-07-18",
+    "time": "18:03:51"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2027-07-21",
+    "time": "07:04:07"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Cancer",
+    "date": "2027-07-23",
+    "time": "01:46:38"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2027-07-23",
+    "time": "19:19:00"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2027-07-26",
+    "time": "05:13:52"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2027-07-28",
+    "time": "11:39:10"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2027-07-30",
+    "time": "14:29:46"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Cancer",
+    "date": "2027-07-30",
+    "time": "18:31:09"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2027-08-01",
+    "time": "14:47:58"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2027-08-03",
+    "time": "14:16:42"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2027-08-05",
+    "time": "14:49:33"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2027-08-07",
+    "time": "18:07:27"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2027-08-10",
+    "time": "01:07:12"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2027-08-12",
+    "time": "11:34:04"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Leo",
+    "date": "2027-08-14",
+    "time": "11:53:02"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2027-08-15",
+    "time": "00:07:02"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Leo",
+    "date": "2027-08-16",
+    "time": "09:34:33"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2027-08-17",
+    "time": "13:04:31"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Leo",
+    "date": "2027-08-17",
+    "time": "14:13:24"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2027-08-20",
+    "time": "01:05:14"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2027-08-22",
+    "time": "11:11:06"
+  },
+  {
+    "planet": "Mars",
+    "sign": "Libra",
+    "date": "2027-08-24",
+    "time": "09:51:23"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2027-08-24",
+    "time": "18:38:42"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2027-08-26",
+    "time": "23:06:39"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2027-08-29",
+    "time": "00:53:23"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2027-08-31",
+    "time": "01:02:48"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Virgo",
+    "date": "2027-08-31",
+    "time": "02:00:44"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2027-09-02",
+    "time": "01:13:05"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2027-09-04",
+    "time": "03:16:20"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2027-09-06",
+    "time": "08:47:21"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2027-09-08",
+    "time": "18:16:55"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Virgo",
+    "date": "2027-09-09",
+    "time": "14:40:38"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2027-09-11",
+    "time": "06:37:05"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2027-09-13",
+    "time": "19:33:54"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2027-09-16",
+    "time": "07:13:35"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Virgo",
+    "date": "2027-09-17",
+    "time": "14:10:11"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2027-09-18",
+    "time": "16:47:44"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2027-09-21",
+    "time": "00:12:24"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Libra",
+    "date": "2027-09-21",
+    "time": "18:20:25"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2027-09-23",
+    "time": "05:32:26"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2027-09-25",
+    "time": "08:52:14"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2027-09-27",
+    "time": "10:33:27"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2027-09-29",
+    "time": "11:33:50"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2027-10-01",
+    "time": "13:26:28"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2027-10-03",
+    "time": "17:56:35"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Libra",
+    "date": "2027-10-03",
+    "time": "18:24:09"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2027-10-06",
+    "time": "02:15:10"
+  },
+  {
+    "planet": "Mars",
+    "sign": "Scorpio",
+    "date": "2027-10-08",
+    "time": "01:28:34"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2027-10-08",
+    "time": "13:58:51"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2027-10-11",
+    "time": "02:55:46"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2027-10-13",
+    "time": "14:31:21"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2027-10-15",
+    "time": "23:29:21"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Libra",
+    "date": "2027-10-18",
+    "time": "02:08:36"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2027-10-18",
+    "time": "06:01:30"
+  },
+  {
+    "planet": "Saturn",
+    "sign": "Pisces",
+    "date": "2027-10-20",
+    "time": "07:12:39"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2027-10-20",
+    "time": "10:54:23"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Virgo",
+    "date": "2027-10-21",
+    "time": "08:12:13"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2027-10-22",
+    "time": "14:42:40"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2027-10-24",
+    "time": "17:41:38"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2027-10-26",
+    "time": "20:10:19"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Scorpio",
+    "date": "2027-10-27",
+    "time": "21:57:05"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2027-10-28",
+    "time": "22:59:13"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2027-10-31",
+    "time": "03:30:48"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2027-11-02",
+    "time": "11:06:30"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2027-11-04",
+    "time": "22:06:53"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Libra",
+    "date": "2027-11-05",
+    "time": "17:11:05"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2027-11-07",
+    "time": "10:59:44"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2027-11-09",
+    "time": "22:57:10"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2027-11-12",
+    "time": "07:55:31"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2027-11-14",
+    "time": "13:42:40"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2027-11-16",
+    "time": "17:22:48"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Scorpio",
+    "date": "2027-11-17",
+    "time": "01:58:15"
+  },
+  {
+    "planet": "Mars",
+    "sign": "Sagittarius",
+    "date": "2027-11-18",
+    "time": "08:45:34"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2027-11-18",
+    "time": "20:13:23"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2027-11-20",
+    "time": "23:07:08"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Sagittarius",
+    "date": "2027-11-21",
+    "time": "02:08:03"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2027-11-23",
+    "time": "02:27:33"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2027-11-25",
+    "time": "06:33:05"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Scorpio",
+    "date": "2027-11-26",
+    "time": "00:28:55"
+  },
+  {
+    "planet": "Jupiter",
+    "sign": "Virgo",
+    "date": "2027-11-26",
+    "time": "18:44:14"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2027-11-27",
+    "time": "12:01:29"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2027-11-29",
+    "time": "19:47:26"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2027-12-02",
+    "time": "06:24:16"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2027-12-04",
+    "time": "19:07:38"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2027-12-07",
+    "time": "07:39:25"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2027-12-09",
+    "time": "17:26:57"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2027-12-11",
+    "time": "23:27:13"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2027-12-14",
+    "time": "02:22:04"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Sagittarius",
+    "date": "2027-12-15",
+    "time": "02:06:23"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Capricorn",
+    "date": "2027-12-15",
+    "time": "08:10:54"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2027-12-16",
+    "time": "03:45:15"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Sagittarius",
+    "date": "2027-12-16",
+    "time": "16:38:38"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2027-12-18",
+    "time": "05:11:33"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2027-12-20",
+    "time": "07:49:21"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2027-12-22",
+    "time": "12:14:11"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2027-12-24",
+    "time": "18:39:41"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2027-12-27",
+    "time": "03:14:42"
+  },
+  {
+    "planet": "Mars",
+    "sign": "Capricorn",
+    "date": "2027-12-27",
+    "time": "13:04:44"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2027-12-29",
+    "time": "14:03:45"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2028-01-01",
+    "time": "02:39:59"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Capricorn",
+    "date": "2028-01-02",
+    "time": "20:54:58"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2028-01-03",
+    "time": "15:34:14"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2028-01-06",
+    "time": "02:31:25"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2028-01-08",
+    "time": "09:48:18"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Aquarius",
+    "date": "2028-01-08",
+    "time": "19:16:33"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2028-01-10",
+    "time": "13:14:38"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2028-01-12",
+    "time": "14:01:26"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2028-01-14",
+    "time": "13:55:54"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Capricorn",
+    "date": "2028-01-15",
+    "time": "03:23:45"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2028-01-16",
+    "time": "14:45:49"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2028-01-18",
+    "time": "17:56:15"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2028-01-21",
+    "time": "00:09:26"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2028-01-23",
+    "time": "09:18:00"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2028-01-25",
+    "time": "20:40:22"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2028-01-28",
+    "time": "09:22:06"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2028-01-30",
+    "time": "22:17:27"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2028-02-02",
+    "time": "09:58:06"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Pisces",
+    "date": "2028-02-02",
+    "time": "18:24:19"
+  },
+  {
+    "planet": "Mars",
+    "sign": "Aquarius",
+    "date": "2028-02-03",
+    "time": "15:44:00"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2028-02-04",
+    "time": "18:47:49"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2028-02-06",
+    "time": "23:51:48"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2028-02-09",
+    "time": "01:29:22"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2028-02-11",
+    "time": "01:03:02"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2028-02-13",
+    "time": "00:28:22"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Aquarius",
+    "date": "2028-02-13",
+    "time": "16:22:59"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2028-02-15",
+    "time": "01:45:07"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2028-02-17",
+    "time": "06:26:32"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2028-02-19",
+    "time": "15:01:28"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2028-02-22",
+    "time": "02:36:31"
+  },
+  {
+    "planet": "Saturn",
+    "sign": "Aries",
+    "date": "2028-02-23",
+    "time": "19:23:07"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2028-02-24",
+    "time": "15:31:58"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2028-02-27",
+    "time": "04:19:23"
+  },
+  {
+    "planet": "Jupiter",
+    "sign": "Leo",
+    "date": "2028-02-28",
+    "time": "19:17:19"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Aries",
+    "date": "2028-02-28",
+    "time": "20:14:42"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2028-02-29",
+    "time": "15:58:18"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2028-03-03",
+    "time": "01:35:12"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2028-03-05",
+    "time": "08:17:54"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2028-03-07",
+    "time": "11:42:36"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Aquarius",
+    "date": "2028-03-09",
+    "time": "10:06:18"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2028-03-09",
+    "time": "12:22:15"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2028-03-11",
+    "time": "11:45:34"
+  },
+  {
+    "planet": "Mars",
+    "sign": "Pisces",
+    "date": "2028-03-12",
+    "time": "16:37:33"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2028-03-13",
+    "time": "11:53:53"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Pisces",
+    "date": "2028-03-14",
+    "time": "13:14:50"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2028-03-15",
+    "time": "14:50:32"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2028-03-17",
+    "time": "21:54:52"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2028-03-20",
+    "time": "08:51:42"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2028-03-22",
+    "time": "21:48:06"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2028-03-25",
+    "time": "10:31:34"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2028-03-27",
+    "time": "21:45:42"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Pisces",
+    "date": "2028-03-28",
+    "time": "13:50:27"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Taurus",
+    "date": "2028-03-28",
+    "time": "18:21:32"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2028-03-30",
+    "time": "07:07:39"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2028-04-01",
+    "time": "14:24:54"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2028-04-03",
+    "time": "19:17:36"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2028-04-05",
+    "time": "21:41:34"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2028-04-07",
+    "time": "22:19:07"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2028-04-09",
+    "time": "22:42:23"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2028-04-12",
+    "time": "00:50:37"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Aries",
+    "date": "2028-04-12",
+    "time": "23:48:30"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Aries",
+    "date": "2028-04-13",
+    "time": "21:44:01"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2028-04-14",
+    "time": "06:29:44"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2028-04-16",
+    "time": "16:14:32"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2028-04-19",
+    "time": "04:45:15"
+  },
+  {
+    "planet": "Mars",
+    "sign": "Aries",
+    "date": "2028-04-20",
+    "time": "13:25:54"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2028-04-21",
+    "time": "17:28:42"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2028-04-24",
+    "time": "04:26:46"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2028-04-26",
+    "time": "13:07:36"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Taurus",
+    "date": "2028-04-27",
+    "time": "20:18:27"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2028-04-28",
+    "time": "19:50:23"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2028-05-01",
+    "time": "00:54:11"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2028-05-03",
+    "time": "04:23:59"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2028-05-05",
+    "time": "06:33:17"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2028-05-07",
+    "time": "08:11:43"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2028-05-09",
+    "time": "10:46:12"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2028-05-11",
+    "time": "15:55:15"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2028-05-14",
+    "time": "00:40:23"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Taurus",
+    "date": "2028-05-14",
+    "time": "18:36:28"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2028-05-16",
+    "time": "12:30:19"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2028-05-19",
+    "time": "01:12:31"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2028-05-21",
+    "time": "12:18:08"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2028-05-23",
+    "time": "20:36:57"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2028-05-26",
+    "time": "02:24:54"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2028-05-28",
+    "time": "06:33:06"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2028-05-30",
+    "time": "09:46:25"
+  },
+  {
+    "planet": "Mars",
+    "sign": "Taurus",
+    "date": "2028-05-31",
+    "time": "00:23:46"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2028-06-01",
+    "time": "12:34:11"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2028-06-03",
+    "time": "15:25:53"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2028-06-05",
+    "time": "19:09:15"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2028-06-08",
+    "time": "00:48:28"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2028-06-10",
+    "time": "09:17:41"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2028-06-12",
+    "time": "20:36:20"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Gemini",
+    "date": "2028-06-15",
+    "time": "01:13:36"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2028-06-15",
+    "time": "09:15:08"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2028-06-17",
+    "time": "20:48:49"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2028-06-20",
+    "time": "05:27:14"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2028-06-22",
+    "time": "10:52:04"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2028-06-24",
+    "time": "13:55:38"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2028-06-26",
+    "time": "15:54:46"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2028-06-28",
+    "time": "17:59:25"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2028-06-30",
+    "time": "21:01:42"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2028-07-03",
+    "time": "01:37:14"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2028-07-05",
+    "time": "08:13:12"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Gemini",
+    "date": "2028-07-05",
+    "time": "17:02:13"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2028-07-07",
+    "time": "17:09:04"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2028-07-10",
+    "time": "04:21:46"
+  },
+  {
+    "planet": "Mars",
+    "sign": "Gemini",
+    "date": "2028-07-12",
+    "time": "15:15:18"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2028-07-12",
+    "time": "16:57:30"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2028-07-15",
+    "time": "05:04:41"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Cancer",
+    "date": "2028-07-16",
+    "time": "12:06:05"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2028-07-17",
+    "time": "14:39:11"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2028-07-19",
+    "time": "20:37:01"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Cancer",
+    "date": "2028-07-21",
+    "time": "14:38:09"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2028-07-21",
+    "time": "23:20:23"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2028-07-24",
+    "time": "00:09:44"
+  },
+  {
+    "planet": "Jupiter",
+    "sign": "Virgo",
+    "date": "2028-07-24",
+    "time": "15:36:15"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2028-07-26",
+    "time": "00:46:12"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2028-07-28",
+    "time": "02:43:08"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2028-07-30",
+    "time": "07:04:36"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Gemini",
+    "date": "2028-08-01",
+    "time": "12:32:54"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2028-08-01",
+    "time": "14:11:51"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2028-08-03",
+    "time": "23:48:15"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Leo",
+    "date": "2028-08-05",
+    "time": "07:40:36"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2028-08-06",
+    "time": "11:18:10"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2028-08-08",
+    "time": "23:53:57"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2028-08-11",
+    "time": "12:22:10"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2028-08-13",
+    "time": "23:00:18"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2028-08-16",
+    "time": "06:17:06"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Leo",
+    "date": "2028-08-16",
+    "time": "20:28:20"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2028-08-18",
+    "time": "09:46:57"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2028-08-20",
+    "time": "10:23:07"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2028-08-22",
+    "time": "09:50:36"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Virgo",
+    "date": "2028-08-23",
+    "time": "13:23:47"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2028-08-24",
+    "time": "10:11:26"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2028-08-26",
+    "time": "13:11:51"
+  },
+  {
+    "planet": "Mars",
+    "sign": "Cancer",
+    "date": "2028-08-26",
+    "time": "20:17:31"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2028-08-28",
+    "time": "19:46:22"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2028-08-31",
+    "time": "05:36:01"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Cancer",
+    "date": "2028-08-31",
+    "time": "21:34:02"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2028-09-02",
+    "time": "17:28:35"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2028-09-05",
+    "time": "06:08:16"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2028-09-07",
+    "time": "18:36:31"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2028-09-10",
+    "time": "05:49:50"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2028-09-12",
+    "time": "14:29:17"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2028-09-14",
+    "time": "19:34:19"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Virgo",
+    "date": "2028-09-16",
+    "time": "20:21:05"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2028-09-16",
+    "time": "21:10:28"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2028-09-18",
+    "time": "20:36:26"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2028-09-20",
+    "time": "19:55:14"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2028-09-22",
+    "time": "21:18:38"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2028-09-25",
+    "time": "02:24:59"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2028-09-27",
+    "time": "11:33:01"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Leo",
+    "date": "2028-09-27",
+    "time": "17:13:29"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2028-09-29",
+    "time": "23:26:52"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2028-10-02",
+    "time": "12:12:11"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2028-10-05",
+    "time": "00:28:03"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2028-10-07",
+    "time": "11:32:49"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2028-10-09",
+    "time": "20:47:12"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2028-10-12",
+    "time": "03:19:26"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2028-10-14",
+    "time": "06:39:23"
+  },
+  {
+    "planet": "Mars",
+    "sign": "Leo",
+    "date": "2028-10-14",
+    "time": "10:21:31"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2028-10-16",
+    "time": "07:18:32"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Libra",
+    "date": "2028-10-17",
+    "time": "08:15:08"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2028-10-18",
+    "time": "06:51:05"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2028-10-20",
+    "time": "07:24:37"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2028-10-22",
+    "time": "11:00:54"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Virgo",
+    "date": "2028-10-23",
+    "time": "01:30:47"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2028-10-24",
+    "time": "18:45:37"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2028-10-27",
+    "time": "06:02:05"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2028-10-29",
+    "time": "18:45:56"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Libra",
+    "date": "2028-10-30",
+    "time": "08:29:53"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2028-11-01",
+    "time": "06:54:19"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2028-11-03",
+    "time": "17:28:01"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2028-11-06",
+    "time": "02:15:01"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2028-11-08",
+    "time": "09:05:45"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2028-11-10",
+    "time": "13:41:44"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2028-11-12",
+    "time": "16:03:45"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2028-11-14",
+    "time": "16:59:42"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Scorpio",
+    "date": "2028-11-16",
+    "time": "08:01:24"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Libra",
+    "date": "2028-11-16",
+    "time": "15:05:03"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2028-11-16",
+    "time": "18:02:44"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Scorpio",
+    "date": "2028-11-17",
+    "time": "18:45:01"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2028-11-18",
+    "time": "21:04:40"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2028-11-21",
+    "time": "03:34:32"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2028-11-23",
+    "time": "13:47:04"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2028-11-26",
+    "time": "02:12:59"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2028-11-28",
+    "time": "14:27:51"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2028-12-01",
+    "time": "00:46:55"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2028-12-03",
+    "time": "08:44:34"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2028-12-05",
+    "time": "14:41:58"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Sagittarius",
+    "date": "2028-12-06",
+    "time": "22:03:36"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2028-12-07",
+    "time": "19:06:23"
+  },
+  {
+    "planet": "Mars",
+    "sign": "Virgo",
+    "date": "2028-12-08",
+    "time": "22:20:44"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2028-12-09",
+    "time": "22:18:19"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Scorpio",
+    "date": "2028-12-10",
+    "time": "18:56:52"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2028-12-12",
+    "time": "00:44:33"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2028-12-14",
+    "time": "03:13:26"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Sagittarius",
+    "date": "2028-12-15",
+    "time": "22:40:25"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2028-12-16",
+    "time": "06:56:06"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2028-12-18",
+    "time": "13:07:15"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2028-12-20",
+    "time": "22:27:55"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2028-12-23",
+    "time": "10:22:55"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2028-12-25",
+    "time": "22:51:26"
+  },
+  {
+    "planet": "Jupiter",
+    "sign": "Libra",
+    "date": "2028-12-26",
+    "time": "13:38:52"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Capricorn",
+    "date": "2028-12-26",
+    "time": "22:13:32"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2028-12-28",
+    "time": "09:34:12"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2028-12-30",
+    "time": "17:17:36"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2029-01-01",
+    "time": "22:12:30"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Sagittarius",
+    "date": "2029-01-03",
+    "time": "18:30:06"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2029-01-04",
+    "time": "01:17:51"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2029-01-06",
+    "time": "03:42:06"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2029-01-08",
+    "time": "06:21:45"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2029-01-10",
+    "time": "09:56:22"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2029-01-12",
+    "time": "14:56:00"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Capricorn",
+    "date": "2029-01-14",
+    "time": "09:26:29"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2029-01-14",
+    "time": "21:50:15"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2029-01-17",
+    "time": "07:04:41"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Sagittarius",
+    "date": "2029-01-18",
+    "time": "06:39:43"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2029-01-19",
+    "time": "18:35:07"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2029-01-22",
+    "time": "07:11:53"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2029-01-24",
+    "time": "18:44:27"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2029-01-27",
+    "time": "03:13:10"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Capricorn",
+    "date": "2029-01-27",
+    "time": "16:47:36"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2029-01-29",
+    "time": "08:01:47"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2029-01-31",
+    "time": "10:01:18"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2029-02-02",
+    "time": "10:49:17"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2029-02-04",
+    "time": "12:08:44"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2029-02-06",
+    "time": "15:18:17"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Capricorn",
+    "date": "2029-02-08",
+    "time": "17:12:48"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2029-02-08",
+    "time": "20:52:06"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2029-02-11",
+    "time": "04:44:14"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Aquarius",
+    "date": "2029-02-12",
+    "time": "22:28:27"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2029-02-13",
+    "time": "14:34:23"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2029-02-16",
+    "time": "02:05:21"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2029-02-18",
+    "time": "14:41:50"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Aquarius",
+    "date": "2029-02-20",
+    "time": "15:34:54"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2029-02-21",
+    "time": "02:57:06"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2029-02-23",
+    "time": "12:45:52"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2029-02-25",
+    "time": "18:40:15"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2029-02-27",
+    "time": "20:47:34"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2029-03-01",
+    "time": "20:37:22"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Aquarius",
+    "date": "2029-03-03",
+    "time": "09:37:46"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2029-03-03",
+    "time": "20:16:03"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2029-03-05",
+    "time": "21:44:58"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2029-03-08",
+    "time": "02:22:57"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2029-03-10",
+    "time": "10:19:23"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2029-03-12",
+    "time": "20:44:18"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Pisces",
+    "date": "2029-03-14",
+    "time": "19:23:17"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2029-03-15",
+    "time": "08:36:43"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Pisces",
+    "date": "2029-03-16",
+    "time": "16:09:02"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2029-03-17",
+    "time": "21:12:45"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2029-03-20",
+    "time": "09:41:39"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Pisces",
+    "date": "2029-03-20",
+    "time": "18:27:01"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2029-03-22",
+    "time": "20:33:35"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2029-03-25",
+    "time": "04:05:44"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2029-03-27",
+    "time": "07:34:17"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2029-03-29",
+    "time": "07:48:47"
+  },
+  {
+    "planet": "Jupiter",
+    "sign": "Virgo",
+    "date": "2029-03-29",
+    "time": "14:32:19"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2029-03-31",
+    "time": "06:44:50"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2029-04-02",
+    "time": "06:39:27"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2029-04-04",
+    "time": "09:30:39"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Aries",
+    "date": "2029-04-04",
+    "time": "17:17:55"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2029-04-06",
+    "time": "16:15:59"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2029-04-09",
+    "time": "02:26:14"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Aries",
+    "date": "2029-04-09",
+    "time": "19:34:18"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2029-04-11",
+    "time": "14:33:16"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2029-04-14",
+    "time": "03:13:30"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Aries",
+    "date": "2029-04-14",
+    "time": "03:53:52"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2029-04-16",
+    "time": "15:33:10"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2029-04-19",
+    "time": "02:39:04"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2029-04-21",
+    "time": "11:17:52"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2029-04-23",
+    "time": "16:28:09"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Taurus",
+    "date": "2029-04-24",
+    "time": "23:45:56"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2029-04-25",
+    "time": "18:12:44"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2029-04-27",
+    "time": "17:48:55"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2029-04-29",
+    "time": "17:18:21"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2029-05-01",
+    "time": "18:48:35"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2029-05-03",
+    "time": "23:54:22"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Taurus",
+    "date": "2029-05-04",
+    "time": "02:31:21"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2029-05-06",
+    "time": "08:56:05"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2029-05-08",
+    "time": "20:44:35"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Aries",
+    "date": "2029-05-10",
+    "time": "03:24:31"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2029-05-11",
+    "time": "09:26:44"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2029-05-13",
+    "time": "21:33:25"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Taurus",
+    "date": "2029-05-15",
+    "time": "00:45:41"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2029-05-16",
+    "time": "08:14:59"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2029-05-18",
+    "time": "16:56:05"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2029-05-20",
+    "time": "23:02:13"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2029-05-23",
+    "time": "02:21:20"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2029-05-25",
+    "time": "03:29:25"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2029-05-27",
+    "time": "03:49:31"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Gemini",
+    "date": "2029-05-28",
+    "time": "13:12:45"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2029-05-29",
+    "time": "05:09:14"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2029-05-31",
+    "time": "09:10:03"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2029-06-02",
+    "time": "16:50:51"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2029-06-05",
+    "time": "03:49:39"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2029-06-07",
+    "time": "16:22:55"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Taurus",
+    "date": "2029-06-08",
+    "time": "16:32:27"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2029-06-10",
+    "time": "04:26:11"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2029-06-12",
+    "time": "14:39:19"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2029-06-14",
+    "time": "22:37:56"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Gemini",
+    "date": "2029-06-15",
+    "time": "07:20:56"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2029-06-17",
+    "time": "04:26:56"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2029-06-19",
+    "time": "08:21:42"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2029-06-21",
+    "time": "10:49:08"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Cancer",
+    "date": "2029-06-22",
+    "time": "03:51:15"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2029-06-23",
+    "time": "12:36:01"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2029-06-25",
+    "time": "14:50:09"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2029-06-27",
+    "time": "18:50:25"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Gemini",
+    "date": "2029-06-28",
+    "time": "21:38:28"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2029-06-30",
+    "time": "01:43:56"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2029-07-02",
+    "time": "11:49:35"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2029-07-05",
+    "time": "00:03:53"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2029-07-07",
+    "time": "12:16:18"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2029-07-09",
+    "time": "22:25:39"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2029-07-12",
+    "time": "05:43:37"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Cancer",
+    "date": "2029-07-13",
+    "time": "01:22:02"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2029-07-14",
+    "time": "10:32:24"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2029-07-16",
+    "time": "13:47:07"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Cancer",
+    "date": "2029-07-16",
+    "time": "18:12:24"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Leo",
+    "date": "2029-07-16",
+    "time": "23:27:28"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2029-07-18",
+    "time": "16:24:51"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2029-07-20",
+    "time": "19:10:28"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2029-07-22",
+    "time": "22:40:07"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2029-07-25",
+    "time": "03:32:05"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2029-07-27",
+    "time": "10:30:43"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Leo",
+    "date": "2029-07-28",
+    "time": "17:19:24"
+  },
+  {
+    "planet": "Mars",
+    "sign": "Libra",
+    "date": "2029-07-28",
+    "time": "22:52:19"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2029-07-29",
+    "time": "20:08:01"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2029-08-01",
+    "time": "08:02:58"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2029-08-03",
+    "time": "20:32:22"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2029-08-06",
+    "time": "07:12:17"
+  },
+  {
+    "planet": "Saturn",
+    "sign": "Taurus",
+    "date": "2029-08-08",
+    "time": "12:30:33"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2029-08-08",
+    "time": "14:30:08"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2029-08-10",
+    "time": "18:31:13"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Virgo",
+    "date": "2029-08-11",
+    "time": "02:25:56"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2029-08-12",
+    "time": "20:30:54"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2029-08-14",
+    "time": "22:05:34"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2029-08-17",
+    "time": "00:33:57"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Leo",
+    "date": "2029-08-17",
+    "time": "02:35:19"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2029-08-19",
+    "time": "04:38:34"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Virgo",
+    "date": "2029-08-19",
+    "time": "20:37:58"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2029-08-21",
+    "time": "10:30:03"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2029-08-23",
+    "time": "18:12:13"
+  },
+  {
+    "planet": "Jupiter",
+    "sign": "Libra",
+    "date": "2029-08-25",
+    "time": "01:00:51"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2029-08-26",
+    "time": "03:56:51"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2029-08-28",
+    "time": "15:42:10"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2029-08-31",
+    "time": "04:26:43"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2029-09-02",
+    "time": "15:58:52"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2029-09-05",
+    "time": "00:08:41"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Libra",
+    "date": "2029-09-05",
+    "time": "17:11:58"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2029-09-07",
+    "time": "04:17:56"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2029-09-09",
+    "time": "05:29:47"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2029-09-11",
+    "time": "05:39:34"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2029-09-13",
+    "time": "06:44:09"
+  },
+  {
+    "planet": "Mars",
+    "sign": "Scorpio",
+    "date": "2029-09-15",
+    "time": "04:05:40"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Leo",
+    "date": "2029-09-15",
+    "time": "04:17:50"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2029-09-15",
+    "time": "10:05:00"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Virgo",
+    "date": "2029-09-17",
+    "time": "02:29:37"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2029-09-17",
+    "time": "16:07:10"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2029-09-20",
+    "time": "00:30:25"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2029-09-22",
+    "time": "10:46:24"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2029-09-24",
+    "time": "22:37:08"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2029-09-27",
+    "time": "11:26:47"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2029-09-29",
+    "time": "23:42:48"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Scorpio",
+    "date": "2029-10-02",
+    "time": "04:58:46"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2029-10-02",
+    "time": "09:13:33"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2029-10-04",
+    "time": "14:35:17"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Virgo",
+    "date": "2029-10-04",
+    "time": "19:14:16"
+  },
+  {
+    "planet": "Saturn",
+    "sign": "Aries",
+    "date": "2029-10-05",
+    "time": "16:53:35"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2029-10-06",
+    "time": "16:09:13"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2029-10-08",
+    "time": "15:38:16"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2029-10-10",
+    "time": "15:14:22"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2029-10-12",
+    "time": "16:55:55"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2029-10-14",
+    "time": "21:52:56"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2029-10-17",
+    "time": "06:06:25"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Libra",
+    "date": "2029-10-17",
+    "time": "14:24:45"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2029-10-19",
+    "time": "16:45:36"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2029-10-22",
+    "time": "04:52:19"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Libra",
+    "date": "2029-10-23",
+    "time": "02:20:18"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2029-10-24",
+    "time": "17:39:09"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2029-10-27",
+    "time": "06:05:30"
+  },
+  {
+    "planet": "Mars",
+    "sign": "Sagittarius",
+    "date": "2029-10-27",
+    "time": "13:06:04"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2029-10-29",
+    "time": "16:36:18"
+  },
+  {
+    "planet": "Venus",
+    "sign": "Sagittarius",
+    "date": "2029-10-30",
+    "time": "18:57:05"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2029-10-31",
+    "time": "23:37:27"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2029-11-03",
+    "time": "02:42:19"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2029-11-05",
+    "time": "02:51:29"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2029-11-07",
+    "time": "02:00:13"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2029-11-09",
+    "time": "02:16:48"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Scorpio",
+    "date": "2029-11-10",
+    "time": "11:30:27"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2029-11-11",
+    "time": "05:28:03"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2029-11-13",
+    "time": "12:25:31"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2029-11-15",
+    "time": "22:43:52"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Scorpio",
+    "date": "2029-11-16",
+    "time": "14:11:15"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2029-11-18",
+    "time": "11:00:14"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2029-11-20",
+    "time": "23:45:38"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2029-11-23",
+    "time": "11:53:33"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2029-11-25",
+    "time": "22:26:24"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2029-11-28",
+    "time": "06:26:07"
+  },
+  {
+    "planet": "Mercury",
+    "sign": "Sagittarius",
+    "date": "2029-11-30",
+    "time": "05:08:14"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2029-11-30",
+    "time": "11:15:12"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2029-12-02",
+    "time": "13:08:00"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2029-12-04",
+    "time": "13:15:05"
+  },
+  {
+    "planet": "Mars",
+    "sign": "Capricorn",
+    "date": "2029-12-06",
+    "time": "02:19:08"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Sagittarius",
+    "date": "2029-12-06",
+    "time": "13:21:11"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Capricorn",
+    "date": "2029-12-08",
+    "time": "15:18:34"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aquarius",
+    "date": "2029-12-10",
+    "time": "20:36:50"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Pisces",
+    "date": "2029-12-13",
+    "time": "05:44:38"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Aries",
+    "date": "2029-12-15",
+    "time": "17:42:40"
+  },
+  {
+    "planet": "Sun",
+    "sign": "Sagittarius",
+    "date": "2029-12-16",
+    "time": "04:49:48"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Taurus",
+    "date": "2029-12-18",
+    "time": "06:31:14"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Gemini",
+    "date": "2029-12-20",
+    "time": "18:20:59"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Cancer",
+    "date": "2029-12-23",
+    "time": "04:14:16"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Leo",
+    "date": "2029-12-25",
+    "time": "11:54:44"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Virgo",
+    "date": "2029-12-27",
+    "time": "17:22:44"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Libra",
+    "date": "2029-12-29",
+    "time": "20:48:19"
+  },
+  {
+    "planet": "Moon",
+    "sign": "Scorpio",
+    "date": "2029-12-31",
+    "time": "22:41:03"
+  }
+]
