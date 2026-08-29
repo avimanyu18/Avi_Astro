@@ -1,9 +1,8 @@
 // Online API Service Layer with Configurable Backend URL & OpenStreetMap Geocoding
 
-const defaultBaseUrl = import.meta.env.DEV
-  ? 'http://localhost:8000'
-  : (import.meta.env.VITE_API_URL || '');
-let customBaseUrl = localStorage.getItem('ASTRO_API_URL') || defaultBaseUrl;
+const configuredBaseUrl = import.meta.env.VITE_API_URL || import.meta.env.VITE_API_BASE_URL || '';
+const defaultBaseUrl = import.meta.env.DEV ? 'http://localhost:8000' : configuredBaseUrl;
+let customBaseUrl = defaultBaseUrl || localStorage.getItem('ASTRO_API_URL') || '';
 
 export function getApiBaseUrl() {
   return customBaseUrl;
